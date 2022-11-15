@@ -5,7 +5,7 @@ tags:
     - 数据结构
     - 思维
 categories: Codeforces
-cover: https://dylolorz.gitee.io/hexo-img/img/Goodbye2020cover.jpg
+cover: https://dylolorz.cn/img/blog/Goodbye2020cover.jpg
 ---
 
 # Codeforces - Good Bye 2020
@@ -23,7 +23,7 @@ cover: https://dylolorz.gitee.io/hexo-img/img/Goodbye2020cover.jpg
 <!-- more -->
 
 # 题目原文
-![在这里插入图片描述](https://dylolorz.gitee.io/hexo-img/img/cf-bye2020-A.png)
+![在这里插入图片描述](https://dylolorz.cn/img/blog/cf-bye2020-A.png)
 
 # 题目描述
 <font size="4">给n个从1开始严格递增的数xi，代表坐标轴上的（xi，0）点，统计所有的由(xi,0)，(xj,0)，(0,1)三个点组成的面积不同的三角形个数。</font>
@@ -76,7 +76,7 @@ int main(void)
 [https://codeforces.com/contest/1466/problem/B](https://codeforces.com/contest/1466/problem/B)
 
 # 题目原文
-![](https://dylolorz.gitee.io/hexo-img/img/cf-bye2020-B.png)
+![](https://dylolorz.cn/img/blog/cf-bye2020-B.png)
 
 # 题目描述
 <font size="4">对于n个数的数组，对于每个数可以加1或者不变，求数组中不同的数的个数的最大值。</font>
@@ -134,7 +134,7 @@ int main(void)
 [https://codeforces.com/contest/1466/problem/C](https://codeforces.com/contest/1466/problem/C)
 
 # 题目原文
-![](https://dylolorz.gitee.io/hexo-img/img/cf-bye2020-C.png)
+![](https://dylolorz.cn/img/blog/cf-bye2020-C.png)
 
 # 题目描述
 <font size="4">对于一个只包含小写字母的字符串，每个操作可以将某个位置的字母改成任意字母，求使字符串的最大回文子串长度为1的最小操作数。</font>
@@ -193,7 +193,7 @@ int main(void)
 [https://codeforces.com/contest/1466/problem/D](https://codeforces.com/contest/1466/problem/D)
 
 # 题目原文
-![](https://dylolorz.gitee.io/hexo-img/img/cf-bye2020-D.png)
+![](https://dylolorz.cn/img/blog/cf-bye2020-D.png)
 
 # 题目描述
 <font size="4">给定一颗n个顶点的树，每个顶点有权重，对于k染色含义是将这棵树的边用不超过k种颜色进行染色，对于染的每种颜色都有一个贡献要求，将树中染此颜色的边取出来，会变成一个或多个子图，而这种颜色的贡献即为多个子图中最大的贡献，对于一个子图的贡献为图的每个顶点的权重和。对每个k求k染色的贡献最大值。</font>
@@ -262,14 +262,14 @@ int main(void)
 [https://codeforces.com/contest/1466/problem/E](https://codeforces.com/contest/1466/problem/E)
 
 # 题目原文
-![](https://dylolorz.gitee.io/hexo-img/img/cf-bye2020-E.png)
+![](https://dylolorz.cn/img/blog/cf-bye2020-E.png)
 
 # 题目描述
 <font size="4">给n个数 求上图中的(xi&xj)*(xj|xk)的和</font>
 
 # 题解思路
-![](https://dylolorz.gitee.io/hexo-img/img/E-1.png)
-![](https://dylolorz.gitee.io/hexo-img/img/E-2.png)
+![](https://dylolorz.cn/img/blog/E-1.png)
+![](https://dylolorz.cn/img/blog/E-2.png)
 <font size="4">将x1...xn每位的贡献预处理，即可o(n)解决此问题</font>
 
 # 题解代码

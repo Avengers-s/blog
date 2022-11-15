@@ -5,7 +5,7 @@ tags:
     - 思维
     - 数学
 categories: Codeforces
-cover: https://dylolorz.gitee.io/hexo-img/img/p1.jpg
+cover: https://dylolorz.cn/img/blog/p1.jpg
 ---
 
 # 题目来源<br/>

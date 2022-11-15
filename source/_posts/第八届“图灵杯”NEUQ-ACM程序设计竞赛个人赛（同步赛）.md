@@ -6,7 +6,7 @@ tags:
     - 图灵杯
     - C++
 categories: 图灵杯
-cover: https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”cover.jpg
+cover: https://dylolorz.cn/img/blog/第八届“图灵杯”cover.jpg
 ---
 
 # 第八届“图灵杯”NEUQ-ACM程序设计竞赛个人赛（同步赛）
@@ -15,13 +15,13 @@ cover: https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”cover.jpg
 > <font size='3'>不过补题体验还可以,难得的一场稍简单的比赛,好像除了博弈论基本都是模拟题了(bushi </font>
 
 # A.切蛋糕
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”A.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”A.png)
 
 ## 简要题解
 <font size='4'>由题可得，要求每个人分得的蛋糕与1/k的绝对值差值不能大于1/2^10,因为每次切蛋糕都是对半分，首先考虑最好算的特殊状态，如果存在一种分法是分给每一个人的蛋糕大小相等，且和1/k的差值满足题意，那这样就不再需要考虑最优拆分策略了，由于总操作限制是不大于6000，事实证明在这个操作限制下确实存在这样一种策略一定满足。</font>
 <font size='4'>证明如下：</font>
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”A证明1.png)
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”A证明2.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”A证明1.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”A证明2.png)
 
 ## 题解代码
 ```cpp
@@ -57,10 +57,10 @@ int main(void)
 ```
 
 # B.小宝的幸运数组
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”B.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”B.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”B证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”B证明.png)
 
 ## 题解代码
 ```cpp
@@ -106,10 +106,10 @@ int main(void)
 ```
 
 # C.上进的凡凡
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”C.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”C.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”C证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”C证明.png)
 
 ## 题解代码
 ```cpp
@@ -154,10 +154,10 @@ int main(void)
 ```
 
 # D.Seek the Joker I
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”D.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”D.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”D证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”D证明.png)
 
 ## 题解代码
 ```cpp
@@ -191,10 +191,10 @@ int main(void)
 ```
 
 # E.Seek the Joker II
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”E.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”E.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”E证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”E证明.png)
 
 ## 题解代码
 ```cpp
@@ -226,7 +226,7 @@ int main(void)
 ```
 
 # F.成绩查询ing
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”F.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”F.png)
 
 ## 简要题解
 <font size='4'>纯模拟题，注意不要tle就行了</font>
@@ -290,10 +290,10 @@ int main(void)
 ```
 
 # G.贪吃的派蒙
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”G.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”G.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”G证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”G证明.png)
 
 ## 题解代码
 ```cpp
@@ -343,10 +343,10 @@ int main(void)
 ```
 
 # H.数羊
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”H.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”H.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”H证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”H证明.png)
 ## 题解代码
 ```cpp
 #include <iostream>
@@ -397,7 +397,7 @@ int main(void)
 ```
 
 # I.买花
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”I.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”I.png)
 
 ## 简要题解
 <font size='4'>签到题，预处理出2^1,2^2...2^15次,判断一下能否整除</font>
@@ -448,7 +448,7 @@ int main(void)
 ```
 
 # J.这是一题简单的模拟
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”J.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”J.png)
 
 ## 简要题解
 <font size='4'>模拟题,unordered_map处理一下就行了</font>
@@ -520,7 +520,7 @@ int main(void)
 ```
 
 # K.黑洞密码
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”K.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”K.png)
 
 ## 简要题解
 <font size='4'>签到题，把字母和数字分开存储,字母为a[i],数字b[i],4个一轮考虑,a[i]后推b[i]个再反转就行</font>
@@ -565,10 +565,10 @@ int main(void)
 ```
 
 # L.建立火车站
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”L.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”L.png)
 
 ## 简要题解
-![](https://dylolorz.gitee.io/hexo-img/img/第八届“图灵杯”L证明.png)
+![](https://dylolorz.cn/img/blog/第八届“图灵杯”L证明.png)
 
 ## 题解代码
 ```cpp
